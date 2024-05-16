@@ -1,0 +1,19 @@
+{
+    "name": "sebentleitner/rezk",
+    "description": "A project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sebentleitner\\Rezk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sebentleitner",
+            "email": "sentleitner@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
